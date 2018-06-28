@@ -4,7 +4,7 @@
 
 ---
 ## Background
-![Image-Absolute](assets/meng2014.jpg)
+![Image-Absolute](assets/meng2014.png)
 
 ---
 ## Goal
