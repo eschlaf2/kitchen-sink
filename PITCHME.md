@@ -1,10 +1,13 @@
 @title[Introduction]
 ## Parameter Estimation
-##### <span style="font-family:Helvetica Neue; font-weight:bold">Inferring potassium concentration gradients from observed spike times using a particle filter to estimate parameters of a Hodgkin-Huxley-type model </span>
+##### Inferring potassium concentration gradients from observed spike times using a particle filter to estimate parameters of a Hodgkin-Huxley-type model
 
 ---
 ## Background
 ![Image-Absolute](assets/meng2014.png)
+
++++
+* Given an observed spike pattern what, if anything, can be said about the underlying mechanisms?
 
 ---
 ## Goal
