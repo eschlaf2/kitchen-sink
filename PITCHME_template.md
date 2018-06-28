@@ -1,41 +1,28 @@
 @title[Introduction]
-## Parameter Estimation
-##### <span style="font-family:Helvetica Neue; font-weight:bold">Inferring potassium concentration gradients from observed spike times using a particle filter to estimate parameters of a Hodgkin-Huxley-type model </span>
+## The Kitchen Sink
+##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
 
 ---
-## Background
-@fa[meng2014]
+@title[Theme Switcher]
+
+## Slideshow Theme Switcher
+<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
+<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
 ---
-## Goal
+@title[Go Fullscreen]
+
+## Tip!
+For the *best viewing experience*   
+press **F** key to go fullscreen.
 
 ---
-## Approach
 
----
-## Model
+## Markdown Slides
+<span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
+<span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown) for details.</span>
 
----
-## Particle Filter (Sequential Monte Carlo)
-
-+++
-#### Overview
-
-+++
-#### Intensity function
-
-+++
-#### Resampling scheme
-
-+++
-#### Annealed Particle Filter
-
----
-## Progress
-
----
-## Considerations
-
+@fa[arrow-down]
 
 +++
 @title[GFM]
