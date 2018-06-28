@@ -7,17 +7,17 @@
 ![Image-Absolute](assets/meng2014.png)
 
 +++
-#### Overview of Meng et. al, 2014
+#### Overview of Meng et al., 2014
 
 - Given an observed spike pattern what, if anything, can be said about the underlying mechanisms? 
-- Combined a conductance based biophysical model of neuron voltage activity (HH-type model) with point process statistical theory (particle filter) |
+- Combined a **conductance based biophysical model** of neuron voltage activity (HH-type model) with **point process statistical theory** (particle filter) |
 - Applied the method to living neurons recorded in vitro from rat layer V IB neurons (possesses an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of  rhythmic activity in the data) |
 
 Note:
 IB cells possess an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of rhythmic activity in the data.
 
 +++
-#### Results of Meng et. al, 2014
+#### Results of Meng et al., 2014
 
 > Through this technique, we show that the same intrinsic current – a slow, depolarization activated, hyperpolarizing current, consistent with a known intrinsic current of the IB cells – supports the two distinct dynamic regimes of activity.
 
