@@ -50,10 +50,16 @@ TBD
 
 ---
 ## Goal
-##### Study changes in potassium ion concentration gradients during seizure onset
+Study changes in potassium ion concentration gradients during seizure onset
 
 ---
 ## Approach
+
+@ol
+- Get reliable single unit spike times from micro array recordings (spike sorting using KiloSort and MountainSort)
+- Assume Hodgkin-Huxley-type dynamics reasonably govern cell spiking activity
+- Estimate model parameters using a particle filter
+@endol
 
 ---
 ## Model
