@@ -56,13 +56,19 @@ Study changes in potassium ion concentration gradients during seizure onset
 ## Approach
 
 @ol
-- Get reliable single unit spike times from micro array recordings (spike sorting using KiloSort and MountainSort)
-- Assume Hodgkin-Huxley-type dynamics reasonably govern cell spiking activity
+- Infer single unit spike times from micro array recordings (spike sorting using KiloSort and MountainSort)
+- Assume Hodgkin-Huxley-type dynamics approximate cell spiking activity reasonable well
 - Estimate model parameters using a particle filter
 @olend
 
 ---
-## Model
+## Hodgkin-Huxley (HH) Model
+**TBD: make diagram**
+
++++
+#### Model equations
+![](assets/meng2014eq2.png)
+![](assets/meng2014eq3.0.png)
 
 ---
 ## Particle Filter (Sequential Monte Carlo)
