@@ -32,6 +32,13 @@ IB cells possess an intrinsic muscarinic-receptor suppressed M-current, which is
 Note:
 Visualizations and descriptive statistics of the observed spike times suggest two modes of behavior in the same cell class. 1A–4A: 1 second interval of spike train data for each of the four cells considered. 1B–4B: The histogram of inter-spike intervals for cells 1–4. 1C–4C: The spectrum of cells 1–4 (solid blue line) and its 95% confidence intervals (dashed red lines). The dashed black line indicates the estimate of overall spiking rate N(T) T where N(T) represents the total number of spikes up to time T.
 
++++
+#### Biophysical modeling
+<img src="assets/meng2014fig3.png" max-height="500vh">
+
+Note:
+Figure 3. Locations of converged particles for the mystery current model. A–C: The blue, black, red, and green dots indicate converged particles for cells 1–4 respectively. B: The horizontal dashed line indicates tB~12 and the vertical dashed line indicates the resting potential265 mV. C: The horizontal dashed line indicates SB~0 and the vertical dashed line indicates resting potential 265 mV. The three coordinate spaces for each data set span the initial parameter value space in the estimation procedure.
+
 ---
 ## Goal
 
