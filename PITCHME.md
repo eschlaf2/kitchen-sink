@@ -12,8 +12,8 @@
 - Given an observed spike pattern what, if anything, can be said about the underlying mechanisms? 
 
 @ul
-- **Approach:** Combined a **conductance based biophysical model** of neuron voltage activity (HH-type model) with **point process statistical theory** (particle filter) 
-- **Data:** living neurons recorded *in vitro* from rat layer V intrisically bursting (IB) neurons 
+- **Approach:** combine a conductance based biophysical model of neuron voltage activity (HH-type model) with point process statistical theory (particle filter) 
+- **Data:** living neurons recorded *in vitro* from rat L5 intrinsically bursting (IB) neurons 
 
 @ulend
 
@@ -21,13 +21,13 @@ Note:
 IB cells possess an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of rhythmic activity in the data.
 
 +++
-#### Results of Meng et al., 2014
+#### Results
 
 > Through this technique, we show that the same intrinsic current – a slow, depolarization activated, hyperpolarizing current, consistent with a known intrinsic current of the IB cells – supports the two distinct dynamic regimes of activity.
 
 +++
 #### Visualization and descriptive statistics
-![Image-Absolute](assets/meng2014fig1.png)
+![Image-Absolute](assets/meng2014fig1.png | height=100)
 
 Note:
 Visualizations and descriptive statistics of the observed spike times suggest two modes of behavior in the same cell class. 1A–4A: 1 second interval of spike train data for each of the four cells considered. 1B–4B: The histogram of inter-spike intervals for cells 1–4. 1C–4C: The spectrum of cells 1–4 (solid blue line) and its 95% confidence intervals (dashed red lines). The dashed black line indicates the estimate of overall spiking rate N(T) T where N(T) represents the total number of spikes up to time T.
