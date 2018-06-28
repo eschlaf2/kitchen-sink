@@ -14,11 +14,12 @@
 - Applied the method to living neurons recorded in vitro from rat layer V IB neurons (possesses an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of  rhythmic activity in the data) |
 
 Note:
-Test note
+IB cells possess an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of rhythmic activity in the data.
 
 +++
 #### Results of Meng et. al, 2014
 
+> Through this technique, we show that the same intrinsic current – a slow, depolarization activated, hyperpolarizing current, consistent with a known intrinsic current of the IB cells – supports the two distinct dynamic regimes of activity.
 
 ---
 ## Goal
