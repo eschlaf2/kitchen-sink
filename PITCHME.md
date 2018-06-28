@@ -35,7 +35,8 @@ Visualizations and descriptive statistics of the observed spike times suggest tw
 +++
 #### Biophysical modeling
 <img src="assets/meng2014fig3.png" max-height="500vh">
-
+ 
+ | :--- | :--- |
  |`$g_B$`: conductance, |`$\tau_B$`: time constant (slow), |
  |`$E_B$`: reversal potential (hyperpolarizing), |`$S_B,\ V_{Bth}$`: gating parameters (depolarization activated)|
 
