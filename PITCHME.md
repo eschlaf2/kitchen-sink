@@ -37,7 +37,8 @@ Visualizations and descriptive statistics of the observed spike times suggest tw
 <img src="assets/meng2014fig3.png" max-height="500vh">
  
 <span style="font-size: 0.6em">
- $g_B$: conductance, $\tau_B$: time constant (slow), $E_B$: reversal potential (hyperpolarizing), $S_B$, `$V_{Bth}$`: gating parameters (depolarization activated)
+ $g_B$: conductance, $\tau_B$: time constant (slow), $E_B$: reversal potential (hyperpolarizing), <br>
+ $S_B$, $V_\{Bth\}$: gating parameters (depolarization activated)
 </span> 
 
 Note:
