@@ -10,8 +10,8 @@
 #### Overview of Meng et. al, 2014
 
 - Given an observed spike pattern what, if anything, can be said about the underlying mechanisms? 
-- <span>**Method**. Combine a conductance based biophysical model of neuron voltage activity (HH-type model) with point process statistical theory </span> |
-- <span>**Data**. Applied method to living neurons recorded in vitro from rat layer V IB neurons (possesses an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of  rhythmic activity in the data)</span> |
+- <span>**Method**. Combine a conductance based biophysical model of neuron voltage activity (HH-type model) with point process statistical theory | </span> 
+- <span>**Data**. Applied method to living neurons recorded in vitro from rat layer V IB neurons (possesses an intrinsic muscarinic-receptor suppressed M-current, which is the primary driver of  rhythmic activity in the data) | </span> 
 
 
 
