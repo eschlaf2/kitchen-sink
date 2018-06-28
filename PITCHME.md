@@ -4,7 +4,7 @@
 
 ---
 ## Background
-@fa[meng2014]
+![Image-Absolute](assets/meng2014.jpg)
 
 ---
 ## Goal
