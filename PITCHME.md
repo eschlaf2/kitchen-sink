@@ -36,7 +36,7 @@ Visualizations and descriptive statistics of the observed spike times suggest tw
 #### Biophysical modeling
 <img src="assets/meng2014fig3.png" max-height="500vh">
 
-`$\tau_B$: time constant`
+`$\tau_B$`: time constant
 
 Note:
 Figure 3. Locations of converged particles for the mystery current model. A–C: The blue, black, red, and green dots indicate converged particles for cells 1–4 respectively. B: The horizontal dashed line indicates tB~12 and the vertical dashed line indicates the resting potential265 mV. C: The horizontal dashed line indicates SB~0 and the vertical dashed line indicates resting potential 265 mV. The three coordinate spaces for each data set span the initial parameter value space in the estimation procedure.
