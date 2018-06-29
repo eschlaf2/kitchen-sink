@@ -144,14 +144,16 @@ inds = floor(interp1(cumsum(weights), 1:N, r, 'linear', 0)) + 1;
 +++
 ### Annealed Particle Filter
 <img src="assets/apf0.png" height="300vh">
-<span style="font-size: 0.6em">
+
+<span style="font-size: 12pt">
 Deutscher, J. and Reid, I. (2005) ‘Articulated body motion capture by stochastic search’, International Journal of Computer Vision, 61(2), pp. 185–205. doi: 10.1023/B:VISI.0000043757.18370.9c.
 </span>
 
 +++
 #### Annealed Particle Filter
-<img src="assets/apf1.png" height="300vh">
-<span style="font-size: 0.6em">
+<img src="assets/apf1.png" height="500vh">
+
+<span style="font-size: 12pt">
 Deutscher, J. and Reid, I. (2005) ‘Articulated body motion capture by stochastic search’, International Journal of Computer Vision, 61(2), pp. 185–205. doi: 10.1023/B:VISI.0000043757.18370.9c.
 </span>
 
