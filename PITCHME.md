@@ -95,10 +95,10 @@ S_{obs} & = & \mbox{observed spikes}
 \end{array}
 $$
 $$
-\begin{array}{rclrcl}
-W & = & \mbox{5 ms}, & h & = & \frac{1}{5ms} \\
-b & = \frac{h}{10}, & & &
-\end{array}
+W = \mbox{5 ms}, h = \frac{1}{5ms},
+$$
+$$
+b = \frac{h}{10}
 $$
 `
 
