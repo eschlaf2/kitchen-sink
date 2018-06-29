@@ -151,26 +151,30 @@ Deutscher, J. and Reid, I. (2005) ‘Articulated body motion capture by stochast
 
 +++
 @title[Annealed Particle Filter]
-<div>
+###### Annealed Particle Filter
 <figcaption style="font: caption">
 <img src="assets/apf1.png" height="500vh">
 <br>
 Deutscher, J. and Reid, I. (2005).
 </figcaption>
-</div>
-<div>
-Annealed Particle Filter
-</div>
 
 ---
 ## Progress
 <img src="assets/prog00.png" height="300vh">
 
 +++ 
-@title[Progress]
+### Progress
 <img src="assets/prog01.png" height="300vh">
 
----
-## Considerations
++++ 
+### Progress
+<img src="assets/prog10.png" height="500vh">
+
++++ 
+### Progress
+<img src="assets/prog11.png" height="300vh">
+
+<!-- ---
+## Considerations -->
 
 
