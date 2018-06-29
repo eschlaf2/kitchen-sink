@@ -138,11 +138,10 @@ Multinomial resampling
 
 <img src="assets/resampling.png" height="380vh">
 
-<span style="font-size: 0.6em">
+
 ```matlab
 inds = floor(interp1(cumsum(weights), 1:N, r, 'linear', 0)) + 1;
 ```
-</span>
 
 +++
 #### Annealed Particle Filter
