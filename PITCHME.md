@@ -136,7 +136,7 @@ $$
 Multinomial resampling 
 (aka Bootstrap particle filter?)
 
-<img src="assets/resampling.png" height="400vh">
+<img src="assets/resampling.png" height="380vh">
 
 <span style="font-size: 0.6em">
 ```matlab
