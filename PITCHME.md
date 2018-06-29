@@ -68,8 +68,8 @@ Study changes in potassium ion concentration gradients during seizure onset
 +++
 #### Model equations
 <img src="assets/meng2014eq2.png" width="30%" style="vertical-align: top">
-<img src="assets/meng2014eq3.0.png" width="30%">
-<img src="assets/meng2014eq3.1.png" width="30%">
+<img src="assets/meng2014eq3.0.png" width="30%" style="vertical-align: top">
+<img src="assets/meng2014eq3.1.png" width="30%" style="vertical-align: top">
 
 ---
 ## Particle Filter (Sequential Monte Carlo)
