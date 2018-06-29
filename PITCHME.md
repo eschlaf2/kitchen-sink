@@ -101,8 +101,8 @@ $$
 ### Particle filter considerations
 
 @ul
-- Intensity function
-- Resampling scheme
+- Intensity function (how particles are assigned weights)
+- Resampling scheme (how we avoid degeneracy)
 @ulend
 
 +++
@@ -133,7 +133,8 @@ $$
 
 +++
 #### Resampling scheme
-
+##### Multinomial resampling 
+##### (aka Bootstrap particle filter?)
 
 +++
 #### Annealed Particle Filter
