@@ -98,6 +98,14 @@ $$
 <img src="assets/overview2.png" height="240vh">
 
 +++
+### Particle filter considerations
+
+@ul
+- Intensity function
+- Resampling scheme
+@endul
+
++++
 #### Intensity function
 
 <span style="padding: 15px">
