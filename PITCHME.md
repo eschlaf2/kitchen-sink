@@ -103,6 +103,10 @@ $$
 </span>
 
 +++
+#### Intensity function
+<img src="assets/intensityFun.png" height="500vh">
+
++++
 #### Resampling scheme
 
 +++
