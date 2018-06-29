@@ -136,11 +136,13 @@ $$
 Multinomial resampling 
 (aka Bootstrap particle filter?)
 
+<img src="assets/resampling.png" height="400vh">
+
+<span style="font-size: 0.6em">
 ```matlab
 inds = floor(interp1(cumsum(weights), 1:N, r, 'linear', 0)) + 1;
 ```
-
-<img src="assets/resampling.png" height="200vh">
+</span>
 
 +++
 #### Annealed Particle Filter
