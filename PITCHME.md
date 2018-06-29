@@ -63,7 +63,7 @@ Study changes in potassium ion concentration gradients during seizure onset
 
 ---
 ## Hodgkin-Huxley (HH) Model
-![](assets/hhDiagram.png)
+<img src="assets/hhDiagram.png" max-height="500vh">
 
 +++
 #### Model equations
