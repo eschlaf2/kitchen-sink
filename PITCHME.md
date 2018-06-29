@@ -94,7 +94,7 @@ S_{win} & = & \mbox{spikes in window}, \\
 S_{obs} & = & \mbox{observed spikes}, 
 \end{array}
 $$
-
+$$$$
 $$
 W = \mbox{5 ms}, \quad h = \frac{1}{5ms},
 $$
