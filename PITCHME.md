@@ -83,9 +83,19 @@ Study changes in potassium ion concentration gradients during seizure onset
 +++
 #### Intensity function
 `$$\lambda_k = \left\{\begin{array}{lc}
-b, & if \ all \ V_{k-W/2:k + W/2} \leq V_{th} \ or \ V_{k - W/2} \geq V_{th} \\
-h, & otherwise
+b, & if \ S_{win} = 0 \\
+\frac{h}{1 + |S_{win} - S_{obs}|^2}, & otherwise
 \end{array}\right.$$`
+
+`
+$$ 
+\begin{array}{rclrcl}
+S_{win} & = & \mbox{spikes in window}, & S_{obs} & = & \mbox{observed spikes} \\
+W & = & \mbox{5 ms}, & h & = & \frac{1}{5ms} \\
+b & = \frac{h}{10}, & & &
+\end{array}
+$$
+`
 
 +++
 #### Resampling scheme
