@@ -94,9 +94,9 @@ $$
 +++
 #### Overview
 
-<img src="assets/overview1.png" height="100vh">
-<img src="assets/overview2.png" height="100vh">
-<img src="assets/overview3.png" height="100vh">
+<img src="assets/overview1.png" height="200vh">
+<img src="assets/overview2.png" height="200vh">
+<img src="assets/overview3.png" height="200vh">
 
 +++
 #### Intensity function
