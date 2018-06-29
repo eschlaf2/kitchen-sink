@@ -7,7 +7,7 @@
 ![Image-Absolute](assets/meng2014.png)
 
 +++
-#### Overview of Meng et al., 2014
+#### Overview
 
 - Given an observed spike pattern what, if anything, can be said about the underlying mechanisms? 
 
