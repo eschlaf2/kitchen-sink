@@ -80,20 +80,27 @@ Study changes in potassium ion concentration gradients during seizure onset
 +++
 #### Overview
 
+`
+$$
+p(\mathbf{S}_{1:K}, \mathbf{Theta} | \Delta N_k) = 
+\frac{p(\mathbf{S}_{1:K}, \mathbf{Theta} | \Delta N_k) p(\mathbf{S}_{1:K}, \mathbf{Theta})}{p(\Delta N_k)}
+$$
+`
+
 +++
 #### Intensity function
 
 <span style="padding: 15px">
 `$$\lambda_k = \left\{\begin{array}{cl}
 b, & if \ S_{win} = 0 \\
-\frac{h}{1 + |S_{win} - S_{obs}|^2}, & otherwise
+\frac{h}{1 + |\Delta N_{win} - \Delta N_{obs}|^2}, & otherwise
 \end{array}\right.$$`
 </span>
 
 <span style="font-size: 0.6em">
 `
 $$ 
-S_{win} = \mbox{spikes in window}, \quad S_{obs} =\mbox{observed spikes}, 
+\Delta N_{win} = \mbox{spikes in window}, \quad \Delta N_{obs} =\mbox{observed spikes}, 
 $$
 $$$$
 $$
