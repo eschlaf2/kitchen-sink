@@ -82,7 +82,7 @@ Study changes in potassium ion concentration gradients during seizure onset
 
 +++
 #### Intensity function
-`$$\lambda_k = \left\{\begin{array}{lc}
+`$$\lambda_k = \left\{\begin{array}{cl}
 b, & if \ S_{win} = 0 \\
 \frac{h}{1 + |S_{win} - S_{obs}|^2}, & otherwise
 \end{array}\right.$$`
