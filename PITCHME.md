@@ -103,7 +103,7 @@ $$
 @ul
 - Intensity function
 - Resampling scheme
-@endul
+@ulend
 
 +++
 #### Intensity function
