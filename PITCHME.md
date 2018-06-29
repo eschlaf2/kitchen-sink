@@ -92,6 +92,13 @@ $$
 <img src="assets/pf.gif" height="300vh">
 
 +++
+#### Overview
+
+<img src="assets/overview1.png" height="30%">
+<img src="assets/overview2.png" height="30%">
+<img src="assets/overview3.png" height="30%">
+
++++
 #### Intensity function
 
 <span style="padding: 15px">
@@ -119,6 +126,7 @@ $$
 
 +++
 #### Resampling scheme
+
 
 +++
 #### Annealed Particle Filter
