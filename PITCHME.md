@@ -133,8 +133,14 @@ $$
 
 +++
 ### Resampling scheme
-###### Multinomial resampling 
-###### (aka Bootstrap particle filter?)
+Multinomial resampling 
+(aka Bootstrap particle filter?)
+
+```matlab
+inds = floor(interp1(cumsum(weights), 1:N, r, 'linear', 0)) + 1;
+```
+
+<img src="assets/resampling.png" height="200vh">
 
 +++
 #### Annealed Particle Filter
