@@ -87,6 +87,7 @@ b, & if \ S_{win} = 0 \\
 \frac{h}{1 + |S_{win} - S_{obs}|^2}, & otherwise
 \end{array}\right.$$`
 
+<span style="font-size: 0.6em">
 `
 $$ 
 \begin{array}{rcl}
@@ -99,6 +100,7 @@ $$
 W = \mbox{5 ms}, \quad h = \frac{1}{5ms}, \quad b = \frac{h}{10}
 $$
 `
+</span>
 
 +++
 #### Resampling scheme
