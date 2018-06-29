@@ -83,7 +83,7 @@ Study changes in potassium ion concentration gradients during seizure onset
 `
 $$
 p(\mathbf{S}_{1:K}, \mathbf{\Theta} | \Delta N_k) = 
-\frac{\Delta N_k | p(\mathbf{S}_{1:K}, \mathbf{\Theta}) p(\mathbf{S}_{1:K}, \mathbf{\Theta})}{p(\Delta N_k)}
+\frac{p(\Delta N_k | \mathbf{S}_{1:K}, \mathbf{\Theta}) p(\mathbf{S}_{1:K}, \mathbf{\Theta})}{p(\Delta N_k)}
 $$
 `
 
