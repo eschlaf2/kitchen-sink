@@ -25,6 +25,8 @@ IB cells possess an intrinsic muscarinic-receptor suppressed M-current, which is
 
 > Through this technique, we show that the same intrinsic current – a slow, depolarization activated, hyperpolarizing current, consistent with a known intrinsic current of the IB cells – supports the two distinct dynamic regimes of activity.
 
+<span style="font-size: 0.6em">Meng et al., 2014</span>
+
 +++
 #### Visualization and descriptive statistics
 <img src="assets/meng2014fig1.png" height="500vh">
@@ -72,17 +74,18 @@ Study changes in potassium ion concentration gradients during seizure onset
 <img src="assets/meng2014eq3.1.png" width="30%" style="vertical-align: top">
 
 ---
-## Particle Filter (Sequential Monte Carlo)
+## Particle Filter 
+## (Sequential Monte Carlo)
 
 +++
 #### Overview
 
 +++
 #### Intensity function
-$$\lambda_k = \left\{\begin{array}{lc}
+`$$\lambda_k = \left\{\begin{array}{lc}
 b, & if \ all \ V_{k-W/2:k + W/2} \leq V_{th} \ or \ V_{k - W/2} \geq V_{th} \\
 h, & otherwise
-\end{array}\right.$$
+\end{array}\right.$$`
 
 +++
 #### Resampling scheme
