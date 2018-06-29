@@ -89,9 +89,12 @@ b, & if \ S_{win} = 0 \\
 
 `
 $$ 
-\begin{array}{rclrcl}
-S_{win} & = & \mbox{spikes in window}, & S_{obs} & = & \mbox{observed spikes} 
+\begin{array}{rcl}
+S_{win} & = & \mbox{spikes in window}, \\
+S_{obs} & = & \mbox{observed spikes} 
 \end{array}
+$$
+$$
 \begin{array}{rclrcl}
 W & = & \mbox{5 ms}, & h & = & \frac{1}{5ms} \\
 b & = \frac{h}{10}, & & &
