@@ -87,7 +87,7 @@ $$
 $$
 `
 
-<img src="assets/pfgif.gif" height="300vh">
+<img src="assets/pf.gif" height="300vh">
 
 +++
 #### Intensity function
